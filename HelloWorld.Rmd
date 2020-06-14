@@ -1,0 +1,21 @@
+---
+title: "HelloWorld"
+author: "MEGHANA"
+date: "6/14/2020"
+output: 
+  pdf_document: 
+    toc: yes
+editor_options: 
+  chunk_output_type: console
+---
+## This a markdown file
+
+if you want to see my files in the github repo then,
+[CLICK HERE](https://github.com/MEGHANA331/datasciencecoursera)
+
+```{r}
+print("Hello World")
+```
+
+
+
